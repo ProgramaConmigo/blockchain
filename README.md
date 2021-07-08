@@ -1,4 +1,4 @@
-# blockchain
+# BlockChain
 
 Bienvenido a mi proyecto de blockchain sobre PHP
 
